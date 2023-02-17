@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruben\\School Ma\\ma\\Visual Studio X\\CSharpOpdrachten\\ProjectAddOpdrachtdefinitve\\ProjectAddOpdrachtdefinitve.csproj": {}
+    "C:\\Users\\ruben\\School Ma\\ma\\Visual Studio X\\-2022csharp1\\CSharpOpdrachten\\ProjectAddOpdrachtdefinitve\\ProjectAddOpdrachtdefinitve.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruben\\School Ma\\ma\\Visual Studio X\\CSharpOpdrachten\\ProjectAddOpdrachtdefinitve\\ProjectAddOpdrachtdefinitve.csproj": {
+    "C:\\Users\\ruben\\School Ma\\ma\\Visual Studio X\\-2022csharp1\\CSharpOpdrachten\\ProjectAddOpdrachtdefinitve\\ProjectAddOpdrachtdefinitve.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruben\\School Ma\\ma\\Visual Studio X\\CSharpOpdrachten\\ProjectAddOpdrachtdefinitve\\ProjectAddOpdrachtdefinitve.csproj",
+        "projectUniqueName": "C:\\Users\\ruben\\School Ma\\ma\\Visual Studio X\\-2022csharp1\\CSharpOpdrachten\\ProjectAddOpdrachtdefinitve\\ProjectAddOpdrachtdefinitve.csproj",
         "projectName": "ProjectAddOpdrachtdefinitve",
-        "projectPath": "C:\\Users\\ruben\\School Ma\\ma\\Visual Studio X\\CSharpOpdrachten\\ProjectAddOpdrachtdefinitve\\ProjectAddOpdrachtdefinitve.csproj",
+        "projectPath": "C:\\Users\\ruben\\School Ma\\ma\\Visual Studio X\\-2022csharp1\\CSharpOpdrachten\\ProjectAddOpdrachtdefinitve\\ProjectAddOpdrachtdefinitve.csproj",
         "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruben\\School Ma\\ma\\Visual Studio X\\CSharpOpdrachten\\ProjectAddOpdrachtdefinitve\\obj\\",
+        "outputPath": "C:\\Users\\ruben\\School Ma\\ma\\Visual Studio X\\-2022csharp1\\CSharpOpdrachten\\ProjectAddOpdrachtdefinitve\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
