@@ -1,0 +1,5 @@
+C:\Users\ruben\School Ma\ma\Visual Studio X\-2022csharp1\CSharpOpdrachten\Variabeleopdr3\obj\Debug\net7.0\Variabeleopdr3.csproj.AssemblyReference.cache
+C:\Users\ruben\School Ma\ma\Visual Studio X\-2022csharp1\CSharpOpdrachten\Variabeleopdr3\obj\Debug\net7.0\Variabeleopdr3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\School Ma\ma\Visual Studio X\-2022csharp1\CSharpOpdrachten\Variabeleopdr3\obj\Debug\net7.0\Variabeleopdr3.AssemblyInfoInputs.cache
+C:\Users\ruben\School Ma\ma\Visual Studio X\-2022csharp1\CSharpOpdrachten\Variabeleopdr3\obj\Debug\net7.0\Variabeleopdr3.AssemblyInfo.cs
+C:\Users\ruben\School Ma\ma\Visual Studio X\-2022csharp1\CSharpOpdrachten\Variabeleopdr3\obj\Debug\net7.0\Variabeleopdr3.csproj.CoreCompileInputs.cache
