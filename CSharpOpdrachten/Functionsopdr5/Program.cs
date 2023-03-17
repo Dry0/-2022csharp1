@@ -53,6 +53,10 @@
 
         }
 
+        private void SetHeroStrength(int strength) 
+        {
+            this.heroStrength = strength;
+        }
         //3) maak hier een function SetHeroStrength met 1 argument  van type 'int'
         //in de body van de function zet de waarde van heroStrength (van program) het 
 
